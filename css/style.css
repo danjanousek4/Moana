@@ -17,8 +17,14 @@ header{
     padding: 20px;
 }
 
-header img{
+header .pfp{
     width: 250px;
+    height: 500px;
+    background-image: url('./../img/moana-pfp.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 0 auto;
 }
 
 header h1{
